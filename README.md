@@ -1,9 +1,11 @@
 # Machine-Learning-and-Deep-Learning
-This repo demonstrates some tools and codings over machine learning, deep learning and exploretary data analysis.
+This repo demonstrates some tools and codings over machine learning, deep learning and exploratory data analysis.
 
-Exploretary Data Analysis
+Exploratory Data Analysis
 1. Matplotlib
 2. Seaborn
+3. Pandas
+4. Numpy
 
 Machine Learning
 1. Scikit-learn
